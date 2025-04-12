@@ -17,5 +17,7 @@ public class Main {
             }
             System.out.println();
         }
+        System.out.println("logic 4");
+        for(int i=1;i<5;i++)System.out.print(i+" ");
     }
 }
