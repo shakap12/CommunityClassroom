@@ -26,6 +26,8 @@ public class Main {
         for(int i=0;i<9;i+=2){
             System.out.print(i+" ");
         }
+        //adding code in 3rd nbranch
+        for(int i=0;i<9;i+=3)System.out.print(i);
 
     }
 }
