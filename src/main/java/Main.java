@@ -29,5 +29,10 @@ public class Main {
         //adding code in 3rd nbranch
         for(int i=0;i<9;i+=3)System.out.print(i);
 
+        //adding code in second branch
+        for(int i=0;i<10;i++){
+            System.out.print(i+" ");
+        }
+
     }
 }
