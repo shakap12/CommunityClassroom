@@ -19,5 +19,13 @@ public class Main {
         }
         System.out.println("logic 4");
         for(int i=1;i<5;i++)System.out.print(i+" ");
+
+        for(int i=0;i<8;i++){
+            System.out.print(i+" ");
+        }
+        for(int i=0;i<9;i+=2){
+            System.out.print(i+" ");
+        }
+
     }
 }
