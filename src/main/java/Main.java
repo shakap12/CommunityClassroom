@@ -23,5 +23,9 @@ public class Main {
         for(int i=0;i<8;i++){
             System.out.print(i+" ");
         }
+        for(int i=0;i<9;i+=2){
+            System.out.print(i+" ");
+        }
+
     }
 }
